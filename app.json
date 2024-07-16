@@ -2,7 +2,7 @@
   "name":"V-6-BMW-XMD",
   "description":"Deploy now your bot, Bmw was developed by Ibrahim Adams.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/fd124f7e9271111c3bcc1.jpg",
+  "logo":"https://telegra.ph/file/33ef0c9d0caa4c7a1d75a.jpg",
   "repository":"https://github.com/ibrahimaitech/BMW-MD",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7d07f6bb6562e3c7b9599.mp4",
+      "value":"https://telegra.ph/file/33ef0c9d0caa4c7a1d75a.jpg",
       "required":false
        
      },
