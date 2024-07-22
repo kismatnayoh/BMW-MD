@@ -1,3 +1,8 @@
+
+# This repo is will know longer be updated tap on open new repo
+<p align="center">  
+ <a href="https://github.com/devibraah/BWM-XMD"><img title="Open New repo" src="https://img.shields.io/badge/Open New Repo-h?color=pink&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
     <img alt="wasi" height="300" src="https://telegra.ph/file/33ef0c9d0caa4c7a1d75a.jpg">
@@ -14,28 +19,50 @@
 <a href="https://github.com/ibrahimaitech/BMW-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ibrahimaitech/BMW-MD?label=Watching&style=social"></a>
 </p>></a>                     
 
- <h1 align="center"> 𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔 𝑪𝒐𝒅𝒆
+   <h1 align="center"                  
+
+
+
+***
+
+
+</a></p>
+
+
+
+- <a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/"><img title="ONRENDER SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
 
 </p>
 
-<a href="https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/devibraah/BWM-XMD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+
+
+- <a href="https://toystack.ai/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON TOYSTACK-h?color=orange&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+
+
+- <a href="https://www.clever-cloud.com/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON CLEVER-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/ibraahadam/BMW-MD&template=https://github.com/ibraahadam/BMW-MD/tree/main)
+
+- <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=grey&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 </p>
 
-
-<a href="https://www.clever-cloud.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑫𝑬𝑷𝑳𝑶𝒀_𝑶𝑵-𝑪𝑳𝑬𝑽𝑬𝑹 -h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON UPTIME-h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 </p>
 
-<a href="https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEVELOPER-INFO -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
 
 
 </p>
    
+##
 
 
 ## Support 🧧 🧧 🧧 🧧
